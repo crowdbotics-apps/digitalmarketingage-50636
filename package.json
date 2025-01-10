@@ -18,6 +18,7 @@
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/side-drawer": "file:./modules/side-drawer/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@modules/zoom-free-calling": "file:./modules/zoom-free-calling/",
